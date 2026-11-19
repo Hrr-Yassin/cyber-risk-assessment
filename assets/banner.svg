@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 310" role="img" aria-labelledby="title detail">
+<title id="title">Cyber Risk Assessment &amp; GRC</title><desc id="detail">GOVERNANCE · RISK · RESILIENCE. Design Phase — Educational Project.</desc>
+<defs><pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0v32" fill="none" stroke="#94A3B8" stroke-opacity=".16"/></pattern><linearGradient id="bg"><stop stop-color="#0B1220"/><stop offset="1" stop-color="#172235"/></linearGradient></defs>
+<rect width="1200" height="310" rx="24" fill="url(#bg)"/>
+<path d="M790 0h386q24 0 24 24v262q0 24-24 24H658z" fill="url(#grid)"/>
+<path d="M819 0L682 310" stroke="#10B981" stroke-opacity=".27"/>
+<rect x="55" y="60" width="32" height="4" rx="2" fill="#10B981"/>
+<g font-family="system-ui, sans-serif">
+<text x="55" y="101" fill="#10B981" font-size="17" font-weight="650" letter-spacing="2.1">GOVERNANCE · RISK · RESILIENCE</text>
+<text x="52" y="169" fill="#F8FAFC" font-size="38" font-weight="720">Cyber Risk Assessment &amp; GRC</text>
+<text x="55" y="224" fill="#94A3B8" font-size="19">Design Phase — Educational Project</text>
+</g>
+<g transform="translate(1009 151)" fill="none">
+<circle r="105" stroke="#10B981" stroke-opacity=".24"/><circle r="82" stroke="#10B981" stroke-opacity=".22" stroke-dasharray="2 8"/>
+<path d="M-62-44h113v88H-62z M-62 14H51M-62-15H51M-25-44v88M13-44v88 M22-7l10 10 17-17" stroke="#10B981" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="105" r="4" fill="#F8FAFC"/><circle cx="-105" r="4" fill="#F8FAFC"/>
+</g></svg>
